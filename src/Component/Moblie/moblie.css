@@ -1,0 +1,13 @@
+.M-img{
+    width: 282px;
+    height: 200px;
+}
+.M-img .M-box{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.M-text Button{
+ 
+    width: 100%;
+}
